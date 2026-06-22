@@ -1,12 +1,13 @@
-## G'day! 👋
+## Hi! 👋
 
-I'm a junior softwear developer currently transitioning my career from logistics & stock control to technology. 
+I'm a junior software developer transitioning my career from logistics & stock control to technology. 
 
-🎓 Recent graduate of the Northcoders Software Development Bootcamp, where I developed skills including NodeJS, React, React Native, SQL, MongoDB and version control with git/GitHub.
+🎓 I'm a recent graduate of the Northcoders Software Development Bootcamp, where I developed skills including Node.js, React, React Native, SQL, MongoDB and version control with Git/GitHub.
 
 🚀 I'm passionate about software development and continuously expanding my skills through personal projects, coding challenges, and ongoing learning.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,reactnative)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,vscode,mongodb,mysql)](https://skillicons.dev)
 
 
 
