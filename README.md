@@ -6,7 +6,7 @@ I'm a junior softwear developer currently transitioning my career from logistics
 
 🚀 I'm passionate about software development and continuously expanding my skills through personal projects, coding challenges, and ongoing learning.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,reactnative)](https://skillicons.dev)
 
 
 
